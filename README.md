@@ -104,11 +104,11 @@ console.log("hello");
 
 ### Automatic link
 
-http://www.studywithanis.com
+https://www.linkedin.com/in/sarwarhossain/
 
 ### Disable link
 
-`http://www.studywithanis.com`
+`https://www.linkedin.com/in/sarwarhossain/`
 
 ### Markdown link sytax 1
 
