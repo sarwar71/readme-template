@@ -116,8 +116,8 @@ https://www.linkedin.com/in/sarwarhossain/
 
 ### Markdown link sytax 2
 
-[ME][me-link] <br/>
-[MY GITHUB][github-link]
+[Linked In][https://www.linkedin.com/in/sarwarhossain/] <br/>
+[Github][github-link]
 
 <br/>
 
