@@ -116,7 +116,7 @@ https://www.linkedin.com/in/sarwarhossain/
 
 ### Markdown link sytax 2
 
-[Linked In][https://www.linkedin.com/in/sarwarhossain/] <br/>
+[Linkedin][linkedin-link] <br/>
 [Github][github-link]
 
 <br/>
@@ -144,5 +144,5 @@ https://www.linkedin.com/in/sarwarhossain/
 | Address     | Dhaka, Bangladesh     |
 
 <!-- all link is here -->
-[me-link]: https://www.dsinnovators.com/people/innovator/sarwar-hossain
+[linkedin-link]: https://www.linkedin.com/in/sarwarhossain/
 [github-link]: https://github.com/sarwar71
